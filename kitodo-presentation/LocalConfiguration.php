@@ -1,0 +1,98 @@
+<?php
+return [
+    'BE' => [
+        'debug' => false,
+        'explicitADmode' => 'explicitAllow',
+        'installToolPassword' => '$P$Cty07IGdH0LFohCxeYL0DjbtnBUcRD.',
+        'loginSecurityLevel' => 'rsa',
+    ],
+    'DB' => [
+        'database' => 'typo3',
+        'host' => '127.0.0.1',
+        'password' => 'changeme',
+        'port' => 3306,
+        'username' => 'root',
+    ],
+    'EXT' => [
+        'extConf' => [
+            'devlog' => 'a:10:{s:15:"minimumLogLevel";s:2:"-1";s:11:"excludeKeys";s:0:"";s:11:"includeKeys";s:0:"";s:8:"ipFilter";s:1:"*";s:16:"refreshFrequency";s:1:"4";s:14:"entriesPerPage";s:2:"25";s:11:"maximumRows";s:4:"1000";s:13:"optimizeTable";s:1:"1";s:20:"maximumExtraDataSize";s:7:"1000000";s:11:"logFilePath";s:9:"debug.log";}',
+            'dfgviewer' => 'a:0:{}',
+            'dlf' => 'a:18:{s:15:"metadataFormats";s:1:"0";s:12:"cliUserGroup";s:1:"0";s:16:"makeCliUserGroup";s:1:"1";s:9:"useragent";s:19:"Kitodo.Presentation";s:7:"caching";s:1:"0";s:21:"publishNewCollections";s:1:"1";s:13:"unhideOnIndex";s:1:"0";s:8:"fileGrps";s:15:"MIN,DEFAULT,MAX";s:13:"fileGrpThumbs";s:6:"THUMBS";s:15:"fileGrpDownload";s:8:"DOWNLOAD";s:15:"fileGrpFulltext";s:8:"FULLTEXT";s:12:"fileGrpAudio";s:5:"AUDIO";s:11:"solrConnect";s:1:"0";s:8:"solrHost";s:9:"localhost";s:8:"solrPort";s:4:"8180";s:8:"solrPath";s:6:"/solr/";s:8:"solrUser";s:0:"";s:8:"solrPass";s:0:"";}',
+            'rsaauth' => 'a:1:{s:18:"temporaryDirectory";s:0:"";}',
+            'saltedpasswords' => 'a:2:{s:3:"BE.";a:4:{s:21:"saltedPWHashingMethod";s:41:"TYPO3\\CMS\\Saltedpasswords\\Salt\\PhpassSalt";s:11:"forceSalted";i:0;s:15:"onlyAuthService";i:0;s:12:"updatePasswd";i:1;}s:3:"FE.";a:5:{s:7:"enabled";i:1;s:21:"saltedPWHashingMethod";s:41:"TYPO3\\CMS\\Saltedpasswords\\Salt\\PhpassSalt";s:11:"forceSalted";i:0;s:15:"onlyAuthService";i:0;s:12:"updatePasswd";i:1;}}',
+            'static_info_tables' => 'a:1:{s:13:"enableManager";s:1:"0";}',
+            't3jquery' => 'a:14:{s:15:"alwaysIntegrate";s:0:"";s:17:"integrateToFooter";s:0:"";s:17:"enableStyleStatic";s:1:"0";s:18:"dontIntegrateOnUID";s:0:"";s:23:"dontIntegrateInRootline";s:0:"";s:13:"jqLibFilename";s:23:"jquery-###VERSION###.js";s:9:"configDir";s:19:"uploads/tx_t3jquery";s:13:"jQueryVersion";s:5:"1.8.x";s:15:"jQueryUiVersion";s:5:"1.9.x";s:18:"jQueryTOOLSVersion";s:0:"";s:22:"jQueryBootstrapVersion";s:0:"";s:16:"integrateFromCDN";s:0:"";s:11:"locationCDN";s:6:"jquery";s:13:"updateMessage";s:1:"0";}',
+        ],
+    ],
+    'FE' => [
+        'cHashRequiredParameters' => 'tx_dlf[id],',
+        'debug' => false,
+        'loginSecurityLevel' => 'rsa',
+        'pageNotFoundOnCHashError' => '0',
+        'pageNotFound_handling' => '',
+    ],
+    'GFX' => [
+        'colorspace' => 'RGB',
+        'im' => 1,
+        'im_mask_temp_ext_gif' => 1,
+        'im_path' => '/usr/bin/',
+        'im_path_lzw' => '/usr/bin/',
+        'im_v5effects' => -1,
+        'im_version_5' => 'gm',
+        'image_processing' => 1,
+        'jpg_quality' => '80',
+    ],
+    'INSTALL' => [
+        'wizardDone' => [
+            'TYPO3\CMS\Install\Updates\AccessRightParametersUpdate' => 1,
+            'TYPO3\CMS\Install\Updates\BackendUserStartModuleUpdate' => 1,
+            'TYPO3\CMS\Install\Updates\Compatibility6ExtractionUpdate' => 1,
+            'TYPO3\CMS\Install\Updates\ContentTypesToTextMediaUpdate' => 1,
+            'TYPO3\CMS\Install\Updates\FileListIsStartModuleUpdate' => 1,
+            'TYPO3\CMS\Install\Updates\FilesReplacePermissionUpdate' => 1,
+            'TYPO3\CMS\Install\Updates\LanguageIsoCodeUpdate' => 1,
+            'TYPO3\CMS\Install\Updates\MediaceExtractionUpdate' => 1,
+            'TYPO3\CMS\Install\Updates\MigrateMediaToAssetsForTextMediaCe' => 1,
+            'TYPO3\CMS\Install\Updates\MigrateShortcutUrlsAgainUpdate' => 1,
+            'TYPO3\CMS\Install\Updates\OpenidExtractionUpdate' => 1,
+            'TYPO3\CMS\Install\Updates\PageShortcutParentUpdate' => 1,
+            'TYPO3\CMS\Install\Updates\ProcessedFileChecksumUpdate' => 1,
+            'TYPO3\CMS\Install\Updates\TableFlexFormToTtContentFieldsUpdate' => 1,
+            'TYPO3\CMS\Install\Updates\WorkspacesNotificationSettingsUpdate' => 1,
+            'TYPO3\CMS\Rtehtmlarea\Hook\Install\DeprecatedRteProperties' => 1,
+            'TYPO3\CMS\Rtehtmlarea\Hook\Install\RteAcronymButtonRenamedToAbbreviation' => 1,
+        ],
+    ],
+    'MAIL' => [
+        'transport_sendmail_command' => '/usr/sbin/sendmail -t -i ',
+    ],
+    'SYS' => [
+        'caching' => [
+            'cacheConfigurations' => [
+                'extbase_object' => [
+                    'backend' => 'TYPO3\\CMS\\Core\\Cache\\Backend\\Typo3DatabaseBackend',
+                    'frontend' => 'TYPO3\\CMS\\Core\\Cache\\Frontend\\VariableFrontend',
+                    'groups' => [
+                        'system',
+                    ],
+                    'options' => [
+                        'defaultLifetime' => 0,
+                    ],
+                ],
+            ],
+        ],
+        'clearCacheSystem' => false,
+        'devIPmask' => '',
+        'displayErrors' => 0,
+        'enableDeprecationLog' => false,
+        'enable_DLOG' => true,
+        'encryptionKey' => 'cb9f7db5ab91a3f8471f6a1b4caec6f45ccb1029ab6ed61687fb411d72ae6279e533ddc567f2a5534ad7581ca79561ce',
+        'isInitialDatabaseImportDone' => true,
+        'isInitialInstallationInProgress' => false,
+        'sitename' => 'New TYPO3 site',
+        'sqlDebug' => 0,
+        'systemLogLevel' => 2,
+        't3lib_cs_convMethod' => 'iconv',
+        't3lib_cs_utils' => 'iconv',
+    ],
+];
