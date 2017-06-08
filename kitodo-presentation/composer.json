@@ -1,0 +1,34 @@
+{
+  "name": "thinkopenat/docker-typo3",
+  "config": {
+    "vendor-dir": "Packages/Libraries",
+    "process-timeout": 1800
+  },
+  "authors": [
+    { "name": "Johannes Goslar",
+      "email": "johannes.goslar@dkd.de"
+    },
+    {
+      "name": "Sascha Egerer",
+      "email": "sascha.egerer@dkd.de"
+    },
+    {
+      "name": "Bernhard Kraft",
+      "email": "kraftb@think-open.at"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://git.typo3.org/Packages/TYPO3.CMS.git"
+    },
+    {
+      "type": "git",
+      "url": "https://github.com/kraftb/typo3_console"
+    }
+  ],
+  "require": {
+    "typo3/cms": "7.6.18",
+    "helhum/typo3-console": "4.6.1"
+  }
+}
