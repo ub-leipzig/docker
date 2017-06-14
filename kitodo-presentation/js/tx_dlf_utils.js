@@ -514,7 +514,7 @@ dlfUtils.isCorsEnabled = function(imageObjs) {
     imageObjs.forEach(function(imageObj) {
         var url = imageObj.mimetype === dlfUtils.CUSTOM_MIMETYPE.ZOOMIFY
             ? imageObj.url.replace('ImageProperties.xml', 'TileGroup0/0-0-0.jpg')
-            : imageObj.mimetype === dlfUtils.CUSTOM_MIMETYPE.IIIF
+            : imageObj.mimetype === dlfUtils.CUSTOM_MIMETYPE.IIIF || imageObj.mimetype === dlfUtils.CUSTOM_MIMETYPE.IIIF2
                 ? dlfViewerSource.IIIF.getMetdadataURL(imageObj.url)
                 : imageObj.mimetype === dlfUtils.CUSTOM_MIMETYPE.IIP
                     ? dlfViewerSource.IIP.getMetdadataURL(imageObj.url)
