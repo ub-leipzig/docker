@@ -1,0 +1,62 @@
+version: "2.1"
+
+services:
+
+  db:
+    image: mysql:5.7
+    container_name: db
+    ports:
+      - "3306:3306"
+    volumes:
+    - ./typo3-data:/docker-entrypoint-initdb.d
+    environment:
+      MYSQL_ROOT_PASSWORD: changeme
+      MYSQL_DATABASE: typo3
+      MYSQL_USER: admin
+      MYSQL_PASSWORD: password
+
+  typo3:
+    image: ubl2/kitodo-presentation
+    container_name: typo3
+    environment:
+      DB_HOST: db
+      DB_PORT: 3306
+      DB_NAME: typo3
+      DB_USER: admin
+      DB_PASS: password
+    links:
+      - db
+      - solr
+      - exist
+    ports:
+      - "8033:80"
+    environment:
+      XDEBUG_CONFIG: remote_host=139.18.19.93
+
+  solr:
+    image: solr
+    container_name: solr
+    ports:
+     - "8180:8983"
+    volumes:
+      - data:/opt/solr/server/solr/mycores
+    entrypoint:
+      - docker-entrypoint.sh
+      - solr-precreate
+      - mycore
+
+  exist:
+    image: pandorasystems/exist
+    container_name: exist
+    ports:
+      - "8900:8080"
+    volumes:
+      - existdb-volume:/mnt/pandora-data/existdb
+
+volumes:
+  data:
+  existdb-volume:
+    driver_opts:
+          type: none
+          device: /mnt/pandora-data/existdb
+          o: bind
