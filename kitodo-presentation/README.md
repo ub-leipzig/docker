@@ -15,6 +15,11 @@ Configuration
 * Continue with username `admin` and password `password`
 
 Go to the backend admin.
+=======
+
+Go to the backend admin.
+* Continue with username `admin` and password `password`
+
 
 Enable these extensions:
 1. Static Info Tables	
@@ -22,7 +27,8 @@ Enable these extensions:
 3. Kitodo Presentation
 4. DFG Viewer
 
-Build T3 jQuery (select all, then merge and run)
+Build T3 jQuery (select all, merge and use, and Create Jquery Library)
+
 
 That is it.
 
