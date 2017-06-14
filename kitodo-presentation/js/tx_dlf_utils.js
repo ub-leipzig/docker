@@ -520,11 +520,13 @@ dlfUtils.isCorsEnabled = function(imageObjs) {
                     ? dlfViewerSource.IIP.getMetdadataURL(imageObj.url)
                     : imageObj.url;
 
+        url = window.location.origin + window.location.pathname + '?eID=tx_dlf_geturl_eid&url=' + encodeURIComponent(url) + '&header=2';
+
         $.ajax({
             url: url,
             async: false
         }).done(function(data, type) {
-            if (type === 'success') {
+            if (type === 'success' && data.indexOf('Access-Control-Allow-Origin') != -1) {
                 response = true && response;
             } else {
                 response = false;
