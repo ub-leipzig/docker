@@ -27,6 +27,7 @@ services:
     links:
       - db
       - solr
+      - exist
     ports:
       - "8033:80"
     environment:
@@ -44,5 +45,18 @@ services:
       - solr-precreate
       - mycore
 
+  exist:
+    image: pandorasystems/exist
+    container_name: exist
+    ports:
+      - "8900:8080"
+    volumes:
+      - existdb-volume:/mnt/pandora-data/existdb
+
 volumes:
   data:
+  existdb-volume:
+    driver_opts:
+          type: none
+          device: /mnt/pandora-data/existdb
+          o: bind

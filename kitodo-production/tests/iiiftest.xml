@@ -165,1622 +165,1622 @@
     </mets:amdSec>
     <mets:fileSec>
         <mets:fileGrp USE="MAX">
-            <mets:file ID="FILE_0001_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0001_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000001.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0002_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0002_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000002.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0003_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0003_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000003.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0004_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0004_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000004.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0005_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0005_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000005.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0006_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0006_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000006.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0007_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0007_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000007.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0008_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0008_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000008.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0009_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0009_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000009.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0010_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0010_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000010.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0011_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0011_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000011.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0012_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0012_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000012.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0013_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0013_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000013.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0014_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0014_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000014.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0015_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0015_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000015.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0016_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0016_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000016.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0017_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0017_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000017.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0018_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0018_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000018.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0019_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0019_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000019.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0020_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0020_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000020.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0021_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0021_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000021.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0022_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0022_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000022.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0023_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0023_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000023.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0024_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0024_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000024.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0025_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0025_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000025.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0026_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0026_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000026.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0027_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0027_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000027.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0028_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0028_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000028.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0029_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0029_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000029.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0030_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0030_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000030.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0031_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0031_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000031.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0032_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0032_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000032.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0033_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0033_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000033.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0034_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0034_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000034.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0035_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0035_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000035.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0036_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0036_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000036.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0037_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0037_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000037.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0038_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0038_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000038.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0039_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0039_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000039.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0040_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0040_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000040.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0041_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0041_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000041.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0042_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0042_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000042.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0043_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0043_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000043.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0044_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0044_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000044.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0045_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0045_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000045.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0046_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0046_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000046.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0047_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0047_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000047.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0048_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0048_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000048.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0049_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0049_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000049.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0050_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0050_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000050.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0051_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0051_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000051.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0052_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0052_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000052.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0053_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0053_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000053.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0054_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0054_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000054.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0055_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0055_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000055.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0056_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0056_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000056.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0057_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0057_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000057.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0058_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0058_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000058.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0059_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0059_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000059.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0060_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0060_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000060.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0061_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0061_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000061.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0062_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0062_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000062.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0063_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0063_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000063.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0064_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0064_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000064.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0065_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0065_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000065.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0066_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0066_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000066.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0067_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0067_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000067.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0068_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0068_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000068.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0069_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0069_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000069.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0070_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0070_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000070.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0071_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0071_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000071.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0072_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0072_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000072.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0073_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0073_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000073.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0074_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0074_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000074.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0075_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0075_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000075.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0076_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0076_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000076.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0077_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0077_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000077.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0078_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0078_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000078.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0079_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0079_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000079.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0080_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0080_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000080.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0081_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0081_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000081.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0082_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0082_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000082.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0083_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0083_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000083.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0084_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0084_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000084.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0085_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0085_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000085.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0086_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0086_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000086.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0087_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0087_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000087.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0088_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0088_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000088.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0089_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0089_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000089.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0090_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0090_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000090.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0091_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0091_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000091.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0092_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0092_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000092.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0093_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0093_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000093.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0094_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0094_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000094.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0095_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0095_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000095.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0096_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0096_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000096.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0097_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0097_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000097.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0098_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0098_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000098.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0099_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0099_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000099.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0100_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0100_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000100.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0101_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0101_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000101.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0102_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0102_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000102.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0103_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0103_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000103.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0104_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0104_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000104.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0105_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0105_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000105.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0106_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0106_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000106.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0107_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0107_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000107.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0108_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0108_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000108.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0109_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0109_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000109.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0110_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0110_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000110.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0111_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0111_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000111.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0112_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0112_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000112.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0113_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0113_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000113.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0114_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0114_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000114.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0115_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0115_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000115.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0116_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0116_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000116.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0117_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0117_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000117.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0118_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0118_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000118.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0119_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0119_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000119.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0120_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0120_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000120.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0121_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0121_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000121.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0122_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0122_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000122.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0123_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0123_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000123.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0124_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0124_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000124.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0125_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0125_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000125.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0126_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0126_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000126.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0127_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0127_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000127.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0128_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0128_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000128.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0129_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0129_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000129.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0130_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0130_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000130.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0131_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0131_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000131.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0132_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0132_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000132.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0133_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0133_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000133.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0134_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0134_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000134.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0135_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0135_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000135.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0136_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0136_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000136.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0137_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0137_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000137.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0138_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0138_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000138.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0139_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0139_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000139.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0140_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0140_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000140.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0141_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0141_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000141.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0142_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0142_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000142.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0143_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0143_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000143.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0144_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0144_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000144.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0145_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0145_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000145.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0146_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0146_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000146.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0147_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0147_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000147.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0148_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0148_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000148.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0149_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0149_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000149.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0150_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0150_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000150.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0151_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0151_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000151.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0152_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0152_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000152.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0153_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0153_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000153.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0154_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0154_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000154.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0155_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0155_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000155.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0156_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0156_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000156.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0157_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0157_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000157.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0158_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0158_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000158.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0159_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0159_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000159.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0160_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0160_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000160.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0161_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0161_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000161.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0162_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0162_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000162.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0163_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0163_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000163.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0164_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0164_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000164.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0165_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0165_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000165.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0166_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0166_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000166.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0167_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0167_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000167.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0168_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0168_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000168.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0169_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0169_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000169.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0170_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0170_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000170.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0171_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0171_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000171.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0172_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0172_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000172.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0173_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0173_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000173.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0174_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0174_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000174.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0175_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0175_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000175.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0176_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0176_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000176.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0177_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0177_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000177.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0178_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0178_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000178.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0179_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0179_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000179.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0180_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0180_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000180.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0181_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0181_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000181.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0182_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0182_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000182.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0183_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0183_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000183.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0184_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0184_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000184.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0185_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0185_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000185.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0186_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0186_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000186.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0187_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0187_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000187.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0188_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0188_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000188.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0189_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0189_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000189.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0190_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0190_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000190.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0191_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0191_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000191.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0192_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0192_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000192.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0193_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0193_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000193.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0194_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0194_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000194.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0195_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0195_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000195.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0196_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0196_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000196.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0197_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0197_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000197.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0198_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0198_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000198.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0199_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0199_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000199.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0200_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0200_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000200.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0201_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0201_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000201.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0202_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0202_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000202.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0203_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0203_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000203.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0204_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0204_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000204.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0205_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0205_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000205.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0206_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0206_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000206.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0207_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0207_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000207.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0208_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0208_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000208.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0209_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0209_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000209.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0210_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0210_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000210.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0211_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0211_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000211.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0212_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0212_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000212.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0213_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0213_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000213.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0214_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0214_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000214.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0215_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0215_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000215.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0216_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0216_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000216.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0217_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0217_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000217.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0218_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0218_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000218.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0219_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0219_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000219.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0220_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0220_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000220.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0221_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0221_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000221.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0222_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0222_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000222.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0223_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0223_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000223.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0224_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0224_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000224.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0225_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0225_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000225.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0226_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0226_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000226.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0227_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0227_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000227.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0228_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0228_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000228.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0229_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0229_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000229.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0230_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0230_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000230.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0231_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0231_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000231.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0232_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0232_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000232.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0233_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0233_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000233.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0234_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0234_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000234.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0235_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0235_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000235.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0236_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0236_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000236.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0237_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0237_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000237.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0238_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0238_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000238.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0239_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0239_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000239.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0240_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0240_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000240.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0241_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0241_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000241.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0242_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0242_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000242.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0243_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0243_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000243.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0244_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0244_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000244.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0245_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0245_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000245.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0246_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0246_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000246.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0247_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0247_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000247.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0248_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0248_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000248.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0249_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0249_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000249.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0250_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0250_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000250.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0251_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0251_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000251.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0252_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0252_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000252.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0253_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0253_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000253.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0254_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0254_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000254.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0255_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0255_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000255.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0256_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0256_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000256.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0257_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0257_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000257.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0258_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0258_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000258.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0259_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0259_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000259.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0260_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0260_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000260.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0261_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0261_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000261.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0262_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0262_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000262.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0263_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0263_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000263.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0264_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0264_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000264.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0265_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0265_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000265.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0266_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0266_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000266.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0267_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0267_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000267.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0268_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0268_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000268.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0269_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0269_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000269.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0270_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0270_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000270.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0271_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0271_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000271.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0272_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0272_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000272.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0273_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0273_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000273.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0274_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0274_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000274.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0275_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0275_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000275.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0276_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0276_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000276.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0277_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0277_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000277.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0278_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0278_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000278.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0279_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0279_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000279.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0280_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0280_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000280.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0281_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0281_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000281.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0282_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0282_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000282.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0283_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0283_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000283.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0284_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0284_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000284.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0285_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0285_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000285.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0286_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0286_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000286.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0287_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0287_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000287.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0288_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0288_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000288.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0289_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0289_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000289.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0290_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0290_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000290.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0291_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0291_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000291.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0292_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0292_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000292.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0293_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0293_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000293.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0294_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0294_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000294.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0295_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0295_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000295.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0296_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0296_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000296.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0297_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0297_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000297.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0298_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0298_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000298.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0299_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0299_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000299.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0300_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0300_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000300.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0301_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0301_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000301.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0302_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0302_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000302.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0303_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0303_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000303.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0304_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0304_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000304.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0305_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0305_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000305.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0306_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0306_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000306.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0307_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0307_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000307.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0308_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0308_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000308.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0309_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0309_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000309.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0310_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0310_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000310.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0311_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0311_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000311.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0312_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0312_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000312.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0313_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0313_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000313.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0314_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0314_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000314.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0315_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0315_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000315.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0316_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0316_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000316.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0317_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0317_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000317.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0318_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0318_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000318.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0319_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0319_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000319.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0320_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0320_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000320.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0321_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0321_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000321.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0322_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0322_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000322.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0323_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0323_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000323.jpx"/>
             </mets:file>
-            <mets:file ID="FILE_0324_MAX" MIMETYPE="application/vnd.kitodo.iiif2">
+            <mets:file ID="FILE_0324_MAX" MIMETYPE="application/vnd.kitodo.iiif">
                 <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink"
                              LOCTYPE="URL"
                              xlink:href="https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0021/0000002170/00000324.jpx"/>
