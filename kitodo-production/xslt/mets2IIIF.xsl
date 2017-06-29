@@ -21,7 +21,7 @@
     </xsl:template>
     <xsl:template match="mets:file">
         <mets:file ID="{concat(substring-before(@ID,'_ORIGINAL'),'_MAX')}"
-                   MIMETYPE="application/vnd.kitodo.iiif2">
+                   MIMETYPE="application/vnd.kitodo.iiif">
             <mets:FLocat LOCTYPE="URL"
                          xlink:href="{concat($iiifbaseURI, substring-before(substring-after(./mets:FLocat/@xlink:href, '/'),'.tif'), '.jpx')}"
                          xmlns:xlink="http://www.w3.org/1999/xlink"/>

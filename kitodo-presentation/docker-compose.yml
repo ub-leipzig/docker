@@ -16,7 +16,7 @@ services:
       MYSQL_PASSWORD: password
 
   typo3:
-    image: ubl2/kitodo-presentation
+    image: ubl2/kitodo-presentation:0.0.1
     container_name: typo3
     environment:
       DB_HOST: db
