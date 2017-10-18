@@ -2,37 +2,34 @@ version: '2'
 services:
   db:
     image: mysql:5.7
-    container_name: db
-    ports:
-      - "3306:3306"
     volumes_from:
-      - kitodo
+    - kitodo
+    volumes:
+    - db-data:/var/lib/mysql
     environment:
-      MYSQL_ROOT_PASSWORD: changeme
-      MYSQL_DATABASE: kitodo
-      MYSQL_USER: kitodo
-      MYSQL_PASSWORD: kitodo
+      MYSQL_RANDOM_ROOT_PASSWORD: "true"
+      MYSQL_DATABASE: "kitodo"
+      MYSQL_USER: "kitodo"
+      MYSQL_PASSWORD: "kitodo"
 
   elasticsearch:
     image: docker.elastic.co/elasticsearch/elasticsearch:5.4.3
-    container_name: elasticsearch
     environment:
-      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
-      - xpack.security.enabled=false
+      - "discovery.type=single-node"
     volumes:
-      - esdata:/usr/share/elasticsearch/data
+      - es-data:/usr/share/elasticsearch/data
     ports:
       - 9200:9200
 
   kitodo:
     image: ubleipzig/kitodo-production:0.0.2
-    container_name: kitodo
-    links:
-      - elasticsearch
     volumes:
       - /docker-entrypoint-initdb.d
+    environment:
+      JAVA_OPTS: "-Xss10m"
     ports:
       - 8080:8080
 
 volumes:
-  esdata:
+  es-data:
+  db-data:
